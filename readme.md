@@ -6,7 +6,7 @@ Real-Time NetFlow Analyzer เป็นซอฟแวร์ที่จะใ�
 
 ## Video & Document
 Video : <br />
-Document :
+Document : [Click](https://docs.google.com/document/d/1JpC8v76Cmnk_CGYriSpYIFYrqG3bd3DkVeZKrjwmPgY/edit?usp=sharing)
 
 ## Members
 1. นายธีรวัฒน์ ดอนเส 61070092
