@@ -18,10 +18,10 @@ Real-Time NetFlow Analyzer เป็นซอฟแวร์ที่จะใ�
 
 | นายศรัณญ์ญู รื่นรวย <br> 61070215 | นายสธน อยู่สถาน <br> 61070231 |
 | :--------: | :--------: |
-| ![Jame]()  |  ![Manu](<img src="pic/Manu.jpg" width="120" height="120"></a>) |
+| ![Jame]()  | <img src="pic/Manu.jpg" width="360" height="360"></a> |
 
 ## 🎓 Instructor | อาจารย์ที่ปรึกษา 🎓
 
 | รศ.ดร. โชติพัชร์ ภรณวลัย	 | ผศ.ดร. สุเมธ ประภาวัต | ดร.ลภัส ประดิษฐ์ทัศนีย์ |
 | :--------: | :--------: | :--------: |
-| <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Chotipat-300x300.jpg" width="120" height="120"></a> | <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Sumet-300x300.jpg" width="120" height="120"></a> | <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Lapas-300x300.jpg" width="120" height="120"></a> |
+| <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Chotipat-300x300.jpg" width="240" height="240"></a> | <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Sumet-300x300.jpg" width="240" height="240"></a> | <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Lapas-300x300.jpg" width="240" height="240"></a> |
