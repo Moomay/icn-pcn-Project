@@ -14,11 +14,11 @@ Real-Time NetFlow Analyzer เป็นซอฟแวร์ที่จะใ�
 
 | นายธีรวัฒน์ ดอนเส <br> 61070092	 | นายปุญญพัฒน์ แปลงพระเนตร <br> 61070122 | นายพัทธพล ยางกิจวิบูลย์ <br> 61070138 |
 | :--------: | :--------: | :--------: |
-|   ![Se]()  |  ![Kit]()  |   ![Sun]() |
+|   <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/66749801_2231048483872826_4636168916857520128_n.jpg?_nc_cat=110&_nc_sid=09cbfe&_nc_eui2=AeFDDiPVfvUn1PKqDBoOfYOkJELgAihkn2AkQuACKGSfYEVWgkov0_Q0VegpRvxBlvzuoKa6mg4jnqs3WeBr0iXV&_nc_ohc=nlFTVzU-N5oAX_xqV4k&_nc_ht=scontent.fbkk12-4.fna&oh=a92432118894b6365340a584dbdb236c&oe=5EEA2903" width="240" height="240"></a>  | <img src="https://scontent.fbkk8-3.fna.fbcdn.net/v/t31.0-8/18699367_1333271430102995_8006269097031661706_o.jpg?_nc_cat=111&_nc_sid=ad2b24&_nc_eui2=AeGsYJdEgheMkPGej1DK2bFGO11R_D-2xC07XVH8P7bELflxxN0-VIJnEitwg0bChr6VE3lukry1iZu1cz2RGDUI&_nc_ohc=Vvzd8BzXSbYAX_lMeJS&_nc_ht=scontent.fbkk8-3.fna&oh=8b573d9389cc1311a67bbc9b60f3721b&oe=5EE895F4" width="240" height="240"></a>  |   <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t31.0-8/11052001_1214342028580586_761503779277126202_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_eui2=AeEHouO9jQgZ_s5VOdkNNPa90ZWkVOoCRn_RlaRU6gJGf4BwrifoBIKttH9HLDhJPRdufQOxVlVKXvI01D_HiI4v&_nc_ohc=BWs-FtsNdrIAX-QHFiG&_nc_ht=scontent.fbkk12-1.fna&oh=6f0bb0f85421a29985e905b692aa6fe4&oe=5EEA1DA8" width="240" height="240"></a> |
 
 | นายศรัณญ์ญู รื่นรวย <br> 61070215 | นายสธน อยู่สถาน <br> 61070231 |
 | :--------: | :--------: |
-| ![Jame]()  | <img src="pic/Manu.jpg" width="360" height="360"></a> |
+| <img src="https://media.discordapp.net/attachments/426628490012655628/712582192093724762/IMG_1005.JPG?width=397&height=529" width="240" height="240"></a> | <img src="pic/Manu.jpg" width="240" height="240"></a> |
 
 ## 🎓 Instructor | อาจารย์ที่ปรึกษา 🎓
 
