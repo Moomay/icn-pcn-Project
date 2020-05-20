@@ -24,4 +24,4 @@ Real-Time NetFlow Analyzer เป็นซอฟแวร์ที่จะใ�
 
 | รศ.ดร. โชติพัชร์ ภรณวลัย	 | ผศ.ดร. สุเมธ ประภาวัต | ดร.ลภัส ประดิษฐ์ทัศนีย์ |
 | :--------: | :--------: | :--------: |
-|  ![Chotipat]()   |  ![lapas]()  |   ![sumet]() |
+| <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Chotipat-300x300.jpg" width="120" height="120"></a> | <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2017/12/Sumet-300x300.jpg" width="120" height="120"></a> | <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Lapas-300x300.jpg" width="120" height="120"></a> |
