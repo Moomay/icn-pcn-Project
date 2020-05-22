@@ -9,8 +9,8 @@
 * ผู้ดูแลามารถตรวจสอบและแก้ปัญหาได้อย่างรวดเร็ว
 
 ## :movie_camera: Video & Document 📄
-🔗Video : <br />
-🔗Document : [Click](https://docs.google.com/document/d/1efFOiFsZt8xv_qTV-_Ao-DQUo2fJTWj5qQR5B-GE1A8/edit?usp=sharing)
+🔗[Video:movie_camera:]() <br />
+🔗[Document📄](https://docs.google.com/document/d/1efFOiFsZt8xv_qTV-_Ao-DQUo2fJTWj5qQR5B-GE1A8/edit?usp=sharing)
 
 ## 📺 อุปกรณ์ที่ใช้ในการทำโครงงาน 📺
 
