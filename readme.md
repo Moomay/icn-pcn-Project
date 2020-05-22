@@ -14,7 +14,7 @@
 
 ## 📺 อุปกรณ์ที่ใช้ในการทำโครงงาน 📺
 
-| คอมพิวเตอร์ | GNS3 | Virtual Box | SolarwindRNA | Windows 10 |
+| คอมพิวเตอร์ | GNS3 | Virtual Box | SolarwindsNTA | Windows 10 |
 | :--------: | :--------: | :--------: | :--------: | :--------: |
 | <img src="https://i3.wp.com/beelievesourcing.co.th/wp-content/uploads/2019/02/9Sat.com_20181006132317.jpg" width="120" height="120"></a> | <img src="https://www.gns3.com/assets/images/logo-colour.png" width="120" height="120"></a> | <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/VirtualBox.png" width="120" height="120"></a> | <img src="https://cdn6.aptoide.com/imgs/1/6/9/169f8d2a03afb33e8fbfa585f2487fb9_icon.png?w=160" width="120" height="120"></a> | <img src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png" height="120"></a> |
 
