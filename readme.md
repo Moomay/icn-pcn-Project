@@ -26,7 +26,7 @@
 
 | นายศรัณญ์ญู รื่นรวย <br> 61070215 | นายสธน อยู่สถาน <br> 61070231 |
 | :--------: | :--------: |
-| <img src="https://drive.google.com/file/d/1Bng7aa84vvp62YQo66zqDt6na1zoJIVN/view?usp=sharing" width="200" height="200"></a> | <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/p960x960/88197267_2651166381655009_1735129893814927360_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_eui2=AeGjCFlHq2No-M6dQJuLFRTpC-YKLuabAe8L5gou5psB7ybkBlgecIjuIjqGu6snb3y_-5Yofm-OfK5MsaptkGLj&_nc_oc=AQlffnO_OeW-D25xfB57vvkILCQa-4F1RZMiHC5YJFKkLVGhfDwDkHm6Q2km5Hd0bHg6mtr3Dx3NvZdk_fmNiaGG&_nc_ht=scontent.fbkk12-4.fna&_nc_tp=6&oh=0ae736b685182281c0834d306ccae2ca&oe=5EEA2EFD" width="200" height="200"></a> |
+| <img src="https://scontent.fbkk12-3.fna.fbcdn.net/v/t31.0-0/p206x206/10862680_771026019652690_7575942502745093239_o.jpg?_nc_cat=102&_nc_sid=e007fa&_nc_eui2=AeHdn1BYI_GsWxJlKx3um8RJ3Bk52BcYCUbcGTnYFxgJRhqdHWrItFEB6CyGxHuEFqRiEO20P8ASH4N0FO-WnUs1&_nc_oc=AQk5VvYKAxVTZhp3TDy_UJBQ4k9wcDueJpolWxoLokqVm1qbehLsd8A_olf0DjPTx5E&_nc_ht=scontent.fbkk12-3.fna&_nc_tp=6&oh=f114575d3607a31e2ac520b35a8548d2&oe=5EF0013A" width="200" height="200"></a> | <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t1.0-9/p960x960/88197267_2651166381655009_1735129893814927360_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_eui2=AeGjCFlHq2No-M6dQJuLFRTpC-YKLuabAe8L5gou5psB7ybkBlgecIjuIjqGu6snb3y_-5Yofm-OfK5MsaptkGLj&_nc_oc=AQlffnO_OeW-D25xfB57vvkILCQa-4F1RZMiHC5YJFKkLVGhfDwDkHm6Q2km5Hd0bHg6mtr3Dx3NvZdk_fmNiaGG&_nc_ht=scontent.fbkk12-4.fna&_nc_tp=6&oh=0ae736b685182281c0834d306ccae2ca&oe=5EEA2EFD" width="200" height="200"></a> |
 
 ## 🎓 Instructor | อาจารย์ที่ปรึกษา 🎓
 
